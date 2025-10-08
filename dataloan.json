@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "hours": 9,
+    "minutes": 0,
+    "daysOfWeek": false,
+    "image": false,
+    "button": {
+      "text": {
+        "en-US": "Open app",
+        "fr-FR": "Ouvrir l'application",
+        "de-DE": "App öffnen",
+        "es-ES": "Abrir aplicación",
+        "ar-SA": "افتح التطبيق",
+        "hi-IN": "ऐप खोलें",
+        "pt-PT": "Abrir aplicativo",
+        "zh-CN": "打开应用",
+        "vi-VN": "Mở ứng dụng",
+        "ja-JP": "アプリを開く",
+        "ko-KR": "앱 열기",
+        "th-TH": "เปิดแอป",
+        "id-ID": "Buka aplikasi"
+      }
+    },
+    "title": {
+      "en-US": "Calculate your loan in a flash!",
+      "fr-FR": "Calculez votre prêt en un clin d’œil !",
+      "de-DE": "Berechnen Sie Ihren Kredit im Handumdrehen!",
+      "es-ES": "¡Calcula tu préstamo en un instante!",
+      "ar-SA": "احسب قرضك في لمح البصر!",
+      "hi-IN": "पल भर में अपना लोन कैलकुलेट करें!",
+      "pt-PT": "Calcule o seu empréstimo num piscar de olhos!",
+      "zh-CN": "眨眼间轻松计算您的贷款！",
+      "vi-VN": "Tính khoản vay dễ như chớp mắt!",
+      "ja-JP": "一瞬でローンを計算！",
+      "ko-KR": "순식간에 대출 계산하기!",
+      "th-TH": "คำนวณเงินกู้ของคุณได้ในพริบตา!",
+      "id-ID": "Hitung pinjaman Anda secepat kilat!"
+    },
+    "titleSub": {
+      "en-US": "Return to Loan to calculate and plan your loan accurately in just a few taps.",
+      "fr-FR": "Revenez sur Loan pour calculer et planifier votre prêt avec précision en quelques clics.",
+      "de-DE": "Kehren Sie zu Loan zurück, um Ihren Kredit mit nur wenigen Klicks genau zu berechnen und zu planen.",
+      "es-ES": "Vuelve a Loan para calcular y planificar tu préstamo con precisión en solo unos toques.",
+      "ar-SA": "عد إلى تطبيق Loan لحساب وتخطيط قرضك بدقة في بضع نقرات فقط.",
+      "hi-IN": "Loan पर वापस जाएं और कुछ ही टैप में अपने लोन की सटीक गणना और योजना बनाएं।",
+      "pt-PT": "Volte ao Loan para calcular e planear o seu empréstimo com precisão em apenas alguns toques.",
+      "zh-CN": "返回 Loan 应用，只需轻点几下即可精确计算并规划您的贷款。",
+      "vi-VN": "Quay lại Loan để tính toán và lên kế hoạch vay chính xác chỉ trong vài chạm.",
+      "ja-JP": "Loan に戻って、わずか数回のタップで正確にローンを計算・計画しましょう。",
+      "ko-KR": "Loan으로 돌아가 몇 번의 탭만으로 대출을 정확하게 계산하고 계획하세요.",
+      "th-TH": "กลับไปที่ Loan เพื่อคำนวณและวางแผนเงินกู้ของคุณได้อย่างแม่นยำในไม่กี่ขั้นตอนเท่านั้น",
+      "id-ID": "Kembali ke Loan untuk menghitung dan merencanakan pinjaman Anda dengan akurat hanya dalam beberapa ketukan."
+    }
+  }
+]
