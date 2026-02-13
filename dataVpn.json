@@ -1,481 +1,145 @@
 {
   "fixed_type": [
     {
-      "id": 1,
-      "image": "https://content.kaspersky-labs.com/fm/press-releases/08/0813acfef054ebf9d95c5ff12f6de92e/processed/what-is-a-vpn-q75.jpg",
-      "hour": 9,
-      "minute": 0,
-      "daysOfWeek": [2],
-      "button": {
-        "text": {
-          "en": "Secure",
-          "es": "Proteger",
-          "hi": "सुरक्षित करें",
-          "fr": "Sécuriser",
-          "cn": "保护",
-          "vi": "Bảo mật",
-          "pt": "Proteger",
-          "ar": "تأمين",
-          "ru": "Защитить",
-          "de": "Sichern",
-          "ja": "保護",
-          "ko": "보호",
-          "id": "Amankan"
-        }
-      },
-      "title": {
-        "en": "🛡 Weekly Security Check",
-        "es": "🛡 Revisión de seguridad semanal",
-        "hi": "🛡 साप्ताहिक सुरक्षा जांच",
-        "fr": "🛡 Vérification de sécurité hebdomadaire",
-        "cn": "🛡 每周安全检查",
-        "vi": "🛡 Kiểm tra bảo mật hàng tuần",
-        "pt": "🛡 Verificação de segurança semanal",
-        "ar": "🛡 فحص الأمان الأسبوعي",
-        "ru": "🛡 Еженедельная проверка безопасности",
-        "de": "🛡 Wöchentliche Sicherheitsüberprüfung",
-        "ja": "🛡 週間セキュリティチェック",
-        "ko": "🛡 주간 보안 점검",
-        "id": "🛡 Pemeriksaan Keamanan Mingguan"
-      },
-      "titleSub": {
-        "en": "Start your week with full online protection. One tap to connect.",
-        "es": "Comienza tu semana con protección total en línea. Toca una vez para conectarte.",
-        "hi": "अपने सप्ताह की शुरुआत पूरी ऑनलाइन सुरक्षा के साथ करें। कनेक्ट करने के लिए एक टैप करें।",
-        "fr": "Commencez votre semaine avec une protection en ligne complète. Touchez pour vous connecter.",
-        "cn": "以全面的在线保护开始您的一周。轻触即可连接。",
-        "vi": "Bắt đầu tuần mới với sự bảo vệ trực tuyến toàn diện. Chạm để kết nối.",
-        "pt": "Comece sua semana com proteção online completa. Toque para conectar.",
-        "ar": "ابدأ أسبوعك بحماية كاملة عبر الإنترنت. اضغط مرة واحدة للاتصال.",
-        "ru": "Начните неделю с полной онлайн-защиты. Одно касание для подключения.",
-        "de": "Beginnen Sie Ihre Woche mit vollem Online-Schutz. Tippen Sie einmal, um sich zu verbinden.",
-        "ja": "完全なオンライン保護で週を始めましょう。タップして接続します。",
-        "ko": "완전한 온라인 보호로 한 주를 시작하세요. 탭 한 번으로 연결됩니다.",
-        "id": "Mulai minggu Anda dengan perlindungan online penuh. Ketuk sekali untuk terhubung."
-      }
-    },
-    {
-      "id": 2,
-      "image": "https://content.kaspersky-labs.com/fm/press-releases/08/0813acfef054ebf9d95c5ff12f6de92e/processed/what-is-a-vpn-q75.jpg",
-      "hour": 8,
-      "minute": 0,
-      "daysOfWeek": [1, 2, 3, 4, 5, 6, 7],
-      "button": {
-        "text": {
-          "en": "Connect",
-          "es": "Conectar",
-          "hi": "कनेक्ट करें",
-          "fr": "Se connecter",
-          "cn": "连接",
-          "vi": "Kết nối",
-          "pt": "Conectar",
-          "ar": "اتصال",
-          "ru": "Подключиться",
-          "de": "Verbinden",
-          "ja": "接続",
-          "ko": "연결",
-          "id": "Hubungkan"
-        }
-      },
-      "title": {
-        "en": "☀️ Stay Safe Today",
-        "es": "☀️ Mantente seguro hoy",
-        "hi": "☀️ आज सुरक्षित रहें",
-        "fr": "☀️ Restez en sécurité aujourd'hui",
-        "cn": "☀️ 今天保持安全",
-        "vi": "☀️ An toàn hôm nay",
-        "pt": "☀️ Fique seguro hoje",
-        "ar": "☀️ ابق آمناً اليوم",
-        "ru": "☀️ Будьте в безопасности сегодня",
-        "de": "☀️ Bleib heute sicher",
-        "ja": "☀️ 今日も安全に",
-        "ko": "☀️ 오늘 안전하게 지내세요",
-        "id": "☀️ Tetap aman hari ini"
-      },
-      "titleSub": {
-        "en": "Connect your VPN before browsing to stay secure all day.",
-        "es": "Conecta tu VPN antes de navegar para mantenerte seguro todo el día.",
-        "hi": "ब्राउज़ करने से पहले अपने VPN को कनेक्ट करें ताकि दिन भर सुरक्षित रहें।",
-        "fr": "Connectez votre VPN avant de naviguer pour rester en sécurité toute la journée.",
-        "cn": "在浏览前连接你的 VPN，全天保持安全。",
-        "vi": "Kết nối VPN trước khi duyệt web để luôn an toàn cả ngày.",
-        "pt": "Conecte seu VPN antes de navegar para permanecer seguro o dia todo.",
-        "ar": "قم بتوصيل VPN قبل التصفح للبقاء آمنًا طوال اليوم.",
-        "ru": "Подключите VPN перед просмотром, чтобы быть в безопасности весь день.",
-        "de": "Verbinde dein VPN vor dem Surfen, um den ganzen Tag sicher zu bleiben.",
-        "ja": "閲覧する前にVPNを接続して、一日中安全を保ちましょう。",
-        "ko": "브라우징하기 전에 VPN을 연결하여 하루 종일 안전하게 지내세요.",
-        "id": "Hubungkan VPN Anda sebelum menjelajah agar tetap aman sepanjang hari."
-      }
-    },
-    {
-      "id": 3,
-      "image": "https://content.kaspersky-labs.com/fm/press-releases/08/0813acfef054ebf9d95c5ff12f6de92e/processed/what-is-a-vpn-q75.jpg",
-      "hour": 18,
-      "minute": 0,
-      "daysOfWeek": [6],
-      "button": {
-        "text": {
-          "en": "Enable",
-          "es": "Activar",
-          "hi": "सक्षम करें",
-          "fr": "Activer",
-          "cn": "启用",
-          "vi": "Bật",
-          "pt": "Ativar",
-          "ar": "تمكين",
-          "ru": "Включить",
-          "de": "Aktivieren",
-          "ja": "有効にする",
-          "ko": "사용",
-          "id": "Aktifkan"
-        }
-      },
-      "title": {
-        "en": "🌎 Travel Mode",
-        "es": "🌎 Modo de Viaje",
-        "hi": "🌎 यात्रा मोड",
-        "fr": "🌎 Mode Voyage",
-        "cn": "🌎 Travel Mode",
-        "vi": "🌎 Chế độ Du lịch",
-        "pt": "🌎 Modo Viagem",
-        "ar": "🌎 وضع السفر",
-        "ru": "🌎 Режим Путешествия",
-        "de": "🌎 Reisemodus",
-        "ja": "🌎 旅行モード",
-        "ko": "🌎 여행 모드",
-        "id": "🌎 Mode Perjalanan"
-      },
-      "titleSub": {
-        "en": "Going out? Turn on VPN to stay safe on public Wi-Fi.",
-        "es": "¿Vas a salir? Enciende el VPN para estar seguro en Wi-Fi público.",
-        "hi": "बाहर जा रहे हैं? सार्वजनिक Wi-Fi पर सुरक्षित रहने के लिए VPN चालू करें।",
-        "fr": "Vous sortez ? Activez le VPN pour rester sûr sur le Wi-Fi public.",
-        "cn": "Going out? Turn on VPN to stay safe on public Wi-Fi.",
-        "vi": "Ra ngoài? Bật VPN để an toàn trên Wi-Fi công cộng.",
-        "pt": "Saindo? Ative o VPN para ficar seguro em Wi-Fi público.",
-        "ar": "تخرج؟ شغّل VPN للبقاء آمناً على الواي فاي العام.",
-        "ru": "Вы идете? Включите VPN, чтобы быть в безопасности в общественном Wi-Fi.",
-        "de": "Gehen Sie raus? Schalten Sie VPN ein, um im öffentlichen WLAN sicher zu bleiben.",
-        "ja": "外出しますか？ 公共Wi-Fiで安全にするためにVPNをオンにしてください。",
-        "ko": "외출 중이신가요? 공용 Wi-Fi에서 안전하게 VPN을 켜세요.",
-        "id": "Keluar? Nyalakan VPN untuk tetap aman di Wi-Fi publik."
-      }
-    },
-    {
-      "id": 4,
+      "id": 5,
       "image": null,
-      "hour": 10,
+      "hour": 20,
       "minute": 0,
-      "startAfterminute": 4320,
-      "repeatIntervalminute": 4320,
+      "daysOfWeek": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "condition": "gift_unclaimed_today",
+      "scenario_name": "reward_notification",
       "button": {
         "text": {
-          "en": "Connect",
-          "es": "Conectar",
-          "hi": "कनेक्ट करें",
-          "fr": "Se connecter",
-          "cn": "连接",
-          "vi": "Kết nối",
-          "pt": "Conectar",
-          "ar": "اتصال",
-          "ru": "Подключиться",
-          "de": "Verbinden",
-          "ja": "接続",
-          "ko": "연결",
-          "id": "Hubungkan"
+          "en": "Claim",
+          "vi": "Nhận"
         }
       },
       "title": {
-        "en": "🌐 Fast Connection Ready",
-        "es": "🌐 Conexión Rápida Lista",
-        "hi": "🌐 त्वरित कनेक्शन तैयार",
-        "fr": "🌐 Connexion Rapide Prête",
-        "cn": "🌐 Fast Connection Ready",
-        "vi": "🌐 Kết nối Nhanh Sẵn sàng",
-        "pt": "🌐 Conexão Rápida Pronta",
-        "ar": "🌐 الاتصال السريع جاهز",
-        "ru": "🌐 Быстрое Подключение Готово",
-        "de": "🌐 Schnelle Verbindung Bereit",
-        "ja": "🌐 高速接続準備完了",
-        "ko": "🌐 빠른 연결 준비 완료",
-        "id": "🌐 Koneksi Cepat Siap"
+        "en": "Your free VPN time is waiting 🎁",
+        "vi": "Thời gian VPN miễn phí đang chờ bạn 🎁"
       },
       "titleSub": {
-        "en": "Your nearby high-speed servers are optimized - connect instantly!",
-        "es": "¡Tus servidores de alta velocidad cercanos están optimizados: conéctate al instante!",
-        "hi": "आपके पास के उच्च गति वाले सर्वर अनुकूलित हैं - तुरंत कनेक्ट करें!",
-        "fr": "Vos serveurs à haute vitesse à proximité sont optimisés - connectez-vous instantanément !",
-        "cn": "Your nearby high-speed servers are optimized - connect instantly!",
-        "vi": "Máy chủ tốc độ cao gần bạn đã được tối ưu - kết nối ngay lập tức!",
-        "pt": "Seus servidores próximos de alta velocidade estão otimizados - conecte-se instantaneamente!",
-        "ar": "الخوادم عالية السرعة القريبة منك مُحسّنة - اتصل فوراً!",
-        "ru": "Ближайшие высокоскоростные серверы оптимизированы — подключайтесь мгновенно!",
-        "de": "Ihre nahegelegenen Hochgeschwindigkeitsserver sind optimiert – sofort verbinden!",
-        "ja": "近くの高速サーバーが最適化されています - すぐに接続！",
-        "ko": "근처 고속 서버가 최적화되었습니다 - 즉시 연결하세요!",
-        "id": "Server kecepatan tinggi terdekat telah dioptimalkan - sambungkan sekarang!"
+        "en": "Open the app to claim today’s bonus minutes.",
+        "vi": "Mở app để nhận số phút thưởng hôm nay."
       }
     }
   ],
   "event_type": [
     {
       "id": "1",
+      "scenario_key": "day0_not_connected_30m",
       "image": "https://content.kaspersky-labs.com/fm/press-releases/08/0813acfef054ebf9d95c5ff12f6de92e/processed/what-is-a-vpn-q75.jpg",
       "button": {
         "text": {
-          "en": "Earn More Time",
-          "es": "Gana Más Tiempo",
-          "hi": "अधिक समय कमाएँ",
-          "fr": "Gagner Plus de Temps",
-          "cn": "Earn More Time",
-          "vi": "Kiếm Thêm Thời Gian",
-          "pt": "Ganhe Mais Tempo",
-          "ar": "اكسب وقتًا أكثر",
-          "ru": "Заработайте Больше Времени",
-          "de": "Mehr Zeit Verdienen",
-          "ja": "もっと時間を稼ぐ",
-          "ko": "시간 더 벌기",
-          "id": "Dapatkan Waktu Lebih"
+          "en": "Open",
+          "es": "Abrir",
+          "hi": "खोलें",
+          "fr": "Ouvrir",
+          "cn": "Open",
+          "vi": "Mở",
+          "pt": "Abrir",
+          "ar": "فتح",
+          "ru": "Открыть",
+          "de": "Öffnen",
+          "ja": "開く",
+          "ko": "열기",
+          "id": "Buka"
         }
       },
       "title": {
-        "en": "⏰ Your VPN Time Is Running Out!",
-        "es": "⏰ ¡Tu tiempo de VPN se está agotando!",
-        "hi": "⏰ आपका VPN समय समाप्त हो रहा है!",
-        "fr": "⏰ Votre temps VPN arrive à épuisement !",
-        "cn": "⏰ Your VPN Time Is Running Out!",
-        "vi": "⏰ Thời gian VPN của bạn sắp hết!",
-        "pt": "⏰ Seu tempo de VPN está acabando!",
-        "ar": "⏰ وقت VPN الخاص بك ينفد!",
-        "ru": "⏰ Время вашего VPN заканчивается!",
-        "de": "⏰ Ihre VPN-Zeit läuft ab!",
-        "ja": "⏰ VPNの時間がなくなりそうです！",
-        "ko": "⏰ VPN 시간이 거의 다 됐어요!",
-        "id": "⏰ Waktu VPN Anda Hampir Habis!"
+        "en": "Your connection isn't protected yet",
+        "es": "Tu conexión aún no está protegida",
+        "hi": "आपका कनेक्शन अभी सुरक्षित नहीं है",
+        "fr": "Votre connexion n'est pas encore protégée",
+        "cn": "Your connection isn't protected yet",
+        "vi": "Kết nối của bạn chưa được bảo vệ",
+        "pt": "Sua conexão ainda não está protegida",
+        "ar": "اتصالك غير محمي بعد",
+        "ru": "Ваше подключение ещё не защищено",
+        "de": "Deine Verbindung ist noch nicht geschützt",
+        "ja": "接続はまだ保護されていません",
+        "ko": "연결이 아직 보호되지 않았습니다",
+        "id": "Koneksi Anda belum terlindungi"
       },
       "titleSub": {
-        "en": "Only a few minutes left! Watch an ad and refill your connection time instantly.",
-        "es": "¡Solo quedan unos minutos! Mira un anuncio y recarga tu tiempo de conexión al instante.",
-        "hi": "सिर्फ कुछ मिनट बाकी हैं! एक विज्ञापन देखें और तुरंत अपना कनेक्शन समय भरें।",
-        "fr": "Il ne reste que quelques minutes ! Regardez une publicité et rechargez votre temps de connexion instantanément.",
-        "cn": "Only a few minutes left! Watch an ad and refill your connection time instantly.",
-        "vi": "Chỉ còn vài phút! Xem quảng cáo và nạp lại thời gian kết nối ngay lập tức.",
-        "pt": "Faltam apenas alguns minutos! Assista a um anúncio e reabasteça seu tempo de conexão instantaneamente.",
-        "ar": "تبقى بضع دقائق فقط! شاهد إعلانًا وأعد ملء وقت الاتصال الخاص بك فورًا.",
-        "ru": "Осталось всего несколько минут! Посмотрите рекламу и мгновенно пополните время подключения.",
-        "de": "Nur noch wenige Minuten übrig! Schau dir eine Anzeige an und fülle deine Verbindungszeit sofort auf.",
-        "ja": "残り数分です！広告を見て接続時間をすぐに補充しましょう。",
-        "ko": "몇 분 남지 않았어요! 광고를 보고 연결 시간을 즉시 채우세요.",
-        "id": "Hanya beberapa menit tersisa! Tonton iklan dan isi ulang waktu koneksi Anda segera."
+        "en": "Tap once to secure your Wi-Fi before browsing",
+        "es": "Toca una vez para asegurar tu Wi-Fi antes de navegar",
+        "hi": "ब्राउज़ करने से पहले अपने Wi-Fi को सुरक्षित करने के लिए एक बार टैप करें",
+        "fr": "Appuyez une fois pour sécuriser votre Wi-Fi avant de naviguer",
+        "cn": "Tap once to secure your Wi-Fi before browsing",
+        "vi": "Chạm một lần để bảo vệ Wi-Fi trước khi duyệt web",
+        "pt": "Toque uma vez para proteger seu Wi-Fi antes de navegar",
+        "ar": "اضغط مرة واحدة لتأمين شبكة Wi-Fi قبل التصفح",
+        "ru": "Нажмите один раз, чтобы защитить Wi-Fi перед просмотром",
+        "de": "Tippe einmal, um dein WLAN vor dem Surfen zu sichern",
+        "ja": "閲覧前にワンタップでWi-Fiを保護",
+        "ko": "탐색 전에 Wi-Fi를 보호하려면 한 번 탭하세요",
+        "id": "Ketuk sekali untuk mengamankan Wi-Fi sebelum menjelajah"
       }
     },
     {
       "id": "2",
+      "scenario_key": "day0_disconnected_120m",
       "image": "https://content.kaspersky-labs.com/fm/press-releases/08/0813acfef054ebf9d95c5ff12f6de92e/processed/what-is-a-vpn-q75.jpg",
       "button": {
         "text": {
-          "en": "Upgrade",
-          "es": "Actualizar",
-          "hi": "अपग्रेड करें",
-          "fr": "Mettre à niveau",
-          "cn": "Upgrade",
-          "vi": "Nâng cấp",
-          "pt": "Atualizar",
-          "ar": "تحديث",
-          "ru": "Обновить",
-          "de": "Aktualisieren",
-          "ja": "アップグレード",
-          "ko": "업그레이드",
-          "id": "Perbarui"
+          "en": "Open",
+          "es": "Abrir",
+          "hi": "खोलें",
+          "fr": "Ouvrir",
+          "cn": "Open",
+          "vi": "Mở",
+          "pt": "Abrir",
+          "ar": "فتح",
+          "ru": "Открыть",
+          "de": "Öffnen",
+          "ja": "開く",
+          "ko": "열기",
+          "id": "Buka"
         }
       },
       "title": {
-        "en": "🚀 Faster Speed Available",
-        "es": "🚀 Velocidad más rápida disponible",
-        "hi": "🚀 तेज़ गति उपलब्ध",
-        "fr": "🚀 Vitesse plus rapide disponible",
-        "cn": "🚀 Faster Speed Available",
-        "vi": "🚀 Tốc độ nhanh hơn đã sẵn sàng",
-        "pt": "🚀 Velocidade mais rápida disponível",
-        "ar": "🚀 سرعة أعلى متاحة",
-        "ru": "🚀 Доступна более высокая скорость",
-        "de": "🚀 Schnellere Geschwindigkeit verfügbar",
-        "ja": "🚀 より高速な接続が利用可能",
-        "ko": "🚀 더 빠른 속도 사용 가능",
-        "id": "🚀 Kecepatan lebih cepat tersedia"
+        "en": "You just disconnected",
+        "es": "Te acabas de desconectar",
+        "hi": "आप अभी डिस्कनेक्ट हुए",
+        "fr": "Vous venez de vous déconnecter",
+        "cn": "You just disconnected",
+        "vi": "Bạn vừa ngắt kết nối",
+        "pt": "Você acabou de desconectar",
+        "ar": "انقطع اتصالك للتو",
+        "ru": "Вы только что отключились",
+        "de": "Du hast dich gerade getrennt",
+        "ja": "接続が切れました",
+        "ko": "방금 연결이 끊겼습니다",
+        "id": "Anda baru saja terputus"
       },
       "titleSub": {
-        "en": "Upgrade to unlock 5x faster premium servers.",
-        "es": "Actualiza para desbloquear servidores premium 5 veces más rápidos.",
-        "hi": "5x तेज़ प्रीमियम सर्वर अनलॉक करने के लिए अपग्रेड करें।",
-        "fr": "Mettez à niveau pour débloquer des serveurs premium 5 fois plus rapides.",
-        "cn": "Upgrade to unlock 5x faster premium servers.",
-        "vi": "Nâng cấp để mở khóa máy chủ cao cấp nhanh gấp 5 lần.",
-        "pt": "Atualize para desbloquear servidores premium 5x mais rápidos.",
-        "ar": "قم بالترقية لفتح خوادم مميزة أسرع 5 مرات.",
-        "ru": "Обновите, чтобы разблокировать премиум-серверы в 5 раз быстрее.",
-        "de": "Upgrade, um 5x schnellere Premium-Server freizuschalten.",
-        "ja": "アップグレードして5倍速いプレミアムサーバーを解放。",
-        "ko": "업그레이드하여 5배 빠른 프리미엄 서버를 잠금 해제하세요.",
-        "id": "Tingkatkan untuk membuka server premium 5x lebih cepat."
+        "en": "Stay protected while using public Wi-Fi",
+        "es": "Mantente protegido al usar Wi-Fi público",
+        "hi": "सार्वजनिक Wi-Fi उपयोग करते समय सुरक्षित रहें",
+        "fr": "Restez protégé en utilisant le Wi-Fi public",
+        "cn": "Stay protected while using public Wi-Fi",
+        "vi": "Luôn bảo vệ khi dùng Wi-Fi công cộng",
+        "pt": "Fique protegido ao usar Wi-Fi público",
+        "ar": "ابقَ محمياً أثناء استخدام شبكة Wi-Fi العامة",
+        "ru": "Оставайтесь под защитой при использовании общедоступного Wi-Fi",
+        "de": "Bleib geschützt bei der Nutzung von öffentlichem WLAN",
+        "ja": "公衆Wi-Fi利用中も保護されたまま",
+        "ko": "공용 Wi-Fi 사용 시에도 보호받으세요",
+        "id": "Tetap terlindungi saat menggunakan Wi-Fi publik"
       }
     },
     {
       "id": "3",
-      "image": "https://content.kaspersky-labs.com/fm/press-releases/08/0813acfef054ebf9d95c5ff12f6de92e/processed/what-is-a-vpn-q75.jpg",
-      "button": {
-        "text": {
-          "en": "Reconnect",
-          "es": "Reconectar",
-          "hi": "पुन: कनेक्ट करें",
-          "fr": "Se reconnecter",
-          "cn": "Reconnect",
-          "vi": "Kết nối lại",
-          "pt": "Reconectar",
-          "ar": "إعادة الاتصال",
-          "ru": "Переподключиться",
-          "de": "Erneut verbinden",
-          "ja": "再接続",
-          "ko": "다시 연결",
-          "id": "Sambungkan Kembali"
-        }
-      },
-      "title": {
-        "en": "💭 Miss the Speed & Privacy?",
-        "es": "💭 ¿Extrañas la velocidad y privacidad?",
-        "hi": "💭 स्पीड और प्राइवेसी याद आ रही है?",
-        "fr": "💭 La vitesse et la confidentialité vous manquent ?",
-        "cn": "💭 Miss the Speed & Privacy?",
-        "vi": "💭 Nhớ tốc độ & quyền riêng tư?",
-        "pt": "💭 Sente falta da velocidade e privacidade?",
-        "ar": "💭 هل تفتقد السرعة والخصوصية؟",
-        "ru": "💭 Скучаете по скорости и приватности?",
-        "de": "💭 Vermissen Sie Geschwindigkeit & Privatsphäre?",
-        "ja": "💭 速度とプライバシーが恋しいですか？",
-        "ko": "💭 속도와 개인정보 보호가 그리운가요?",
-        "id": "💭 Merindukan Kecepatan & Privasi?"
-      },
-      "titleSub": {
-        "en": "Your private network is ready - come back to secure browsing.",
-        "es": "Tu red privada está lista: vuelve a navegar seguro.",
-        "hi": "आपका निजी नेटवर्क तैयार है - सुरक्षित ब्राउज़िंग के लिए वापस आएँ।",
-        "fr": "Votre réseau privé est prêt - revenez pour naviguer en toute sécurité.",
-        "cn": "Your private network is ready - come back to secure browsing.",
-        "vi": "Mạng riêng của bạn đã sẵn sàng - quay lại để lướt web an toàn.",
-        "pt": "Sua rede privada está pronta - volte para navegar com segurança.",
-        "ar": "شبكتك الخاصة جاهزة - عد لتصفح آمن.",
-        "ru": "Ваша частная сеть готова — возвращайтесь для безопасного серфинга.",
-        "de": "Ihr privates Netzwerk ist bereit – kehren Sie für sicheres Surfen zurück.",
-        "ja": "あなたのプライベートネットワークは準備完了です - 安全なブラウジングのために戻ってきてください。",
-        "ko": "개인 네트워크가 준비되었습니다 - 안전한 브라우징을 위해 돌아오세요.",
-        "id": "Jaringan pribadi Anda siap - kembali untuk browsing aman."
-      }
-    },
-    {
-      "id": "4",
-      "image": "https://content.kaspersky-labs.com/fm/press-releases/08/0813acfef054ebf9d95c5ff12f6de92e/processed/what-is-a-vpn-q75.jpg",
-      "button": {
-        "text": {
-          "en": "Check",
-          "es": "Verificar",
-          "hi": "जांचें",
-          "fr": "Vérifier",
-          "cn": "Check",
-          "vi": "Kiểm tra",
-          "pt": "Verificar",
-          "ar": "تحقق",
-          "ru": "Проверить",
-          "de": "Überprüfen",
-          "ja": "チェック",
-          "ko": "확인",
-          "id": "Periksa"
-        }
-      },
-      "title": {
-        "en": "🚨 Suspicious Login",
-        "es": "Inicio de sesión sospechoso",
-        "hi": "संदिग्ध लॉगिन",
-        "fr": "Connexion suspecte",
-        "cn": "🚨 Suspicious Login",
-        "vi": "Đăng nhập khả nghi",
-        "pt": "Login suspeito",
-        "ar": "تسجيل دخول مشبوه",
-        "ru": "Подозрительный вход",
-        "de": "Verdächtige Anmeldung",
-        "ja": "不審なログイン",
-        "ko": "의심스러운 로그인",
-        "id": "Login Mencurigakan"
-      },
-      "titleSub": {
-        "en": "A new device tried to connect. Open VPN to verify.",
-        "es": "Un nuevo dispositivo intentó conectarse. Abre VPN para verificar.",
-        "hi": "एक नया डिवाइस कनेक्ट करने की कोशिश कर रहा है। सत्यापित करने के लिए VPN खोलें।",
-        "fr": "Un nouvel appareil a tenté de se connecter. Ouvrez VPN pour vérifier.",
-        "cn": "A new device tried to connect. Open VPN to verify.",
-        "vi": "Một thiết bị mới đã cố gắng kết nối. Mở VPN để xác minh.",
-        "pt": "Um novo dispositivo tentou conectar. Abra o VPN para verificar.",
-        "ar": "جهاز جديد حاول الاتصال. افتح VPN للتحقق.",
-        "ru": "Новое устройство пыталось подключиться. Откройте VPN для проверки.",
-        "de": "Ein neues Gerät hat versucht, sich zu verbinden. Öffne VPN zur Überprüfung.",
-        "ja": "新しいデバイスが接続を試みました。確認するにはVPNを開いてください。",
-        "ko": "새 장치가 연결을 시도했습니다. 확인하려면 VPN을 여세요.",
-        "id": "Perangkat baru mencoba terhubung. Buka VPN untuk verifikasi."
-      }
-    },
-    {
-      "id": "5",
-      "image": "https://content.kaspersky-labs.com/fm/press-releases/08/0813acfef054ebf9d95c5ff12f6de92e/processed/what-is-a-vpn-q75.jpg",
-      "button": {
-        "text": {
-          "en": "View",
-          "es": "Ver",
-          "hi": "देखें",
-          "fr": "Voir",
-          "cn": "View",
-          "vi": "Xem",
-          "pt": "Visualizar",
-          "ar": "عرض",
-          "ru": "Просмотр",
-          "de": "Ansehen",
-          "ja": "表示",
-          "ko": "보기",
-          "id": "Lihat"
-        }
-      },
-      "title": {
-        "en": "🛡 You’re Protected",
-        "es": "🛡 Estás protegido",
-        "hi": "🛡 आप सुरक्षित हैं",
-        "fr": "🛡 Vous êtes protégé",
-        "cn": "🛡 You’re Protected",
-        "vi": "🛡 Bạn được bảo vệ",
-        "pt": "🛡 Você está protegido",
-        "ar": "🛡 أنت محمي",
-        "ru": "🛡 Вы защищены",
-        "de": "🛡 Sie sind geschützt",
-        "ja": "🛡 保護されています",
-        "ko": "🛡 보호되었습니다",
-        "id": "🛡 Anda terlindungi"
-      },
-      "titleSub": {
-        "en": "VPN blocked 3 trackers today.",
-        "es": "VPN bloqueó 3 rastreadores hoy.",
-        "hi": "VPN ने आज 3 ट्रैकर्स ब्लॉक किए।",
-        "fr": "Le VPN a bloqué 3 traceurs aujourd'hui.",
-        "cn": "VPN blocked 3 trackers today.",
-        "vi": "VPN đã chặn 3 trình theo dõi hôm nay.",
-        "pt": "O VPN bloqueou 3 rastreadores hoje.",
-        "ar": "قام VPN بحظر 3 متتبعات اليوم.",
-        "ru": "VPN заблокировал 3 трекера сегодня.",
-        "de": "VPN hat heute 3 Tracker blockiert.",
-        "ja": "VPNは本日3つのトラッカーをブロックしました。",
-        "ko": "VPN이 오늘 3개의 추적기를 차단했습니다.",
-        "id": "VPN memblokir 3 pelacak hari ini."
-      }
-    },
-    {
-      "id": "6",
+      "scenario_key": "day1_connected_not_open_today",
       "image": "https://content.kaspersky-labs.com/fm/press-releases/08/0813acfef054ebf9d95c5ff12f6de92e/processed/what-is-a-vpn-q75.jpg",
       "button": {
         "text": {
@@ -483,7 +147,7 @@
           "es": "Conectar",
           "hi": "कनेक्ट करें",
           "fr": "Se connecter",
-          "cn": "连接",
+          "cn": "Connect",
           "vi": "Kết nối",
           "pt": "Conectar",
           "ar": "اتصال",
@@ -495,38 +159,195 @@
         }
       },
       "title": {
-        "en": "⚠️ Unprotected Browsing",
-        "es": "⚠️ Navegación no protegida",
-        "hi": "⚠️ असुरक्षित ब्राउज़िंग",
-        "fr": "⚠️ Navigation non protégée",
-        "cn": "⚠️ Unprotected Browsing",
-        "vi": "⚠️ Duyệt web không được bảo vệ",
-        "pt": "⚠️ Navegação não protegida",
-        "ar": "⚠️ تصفح غير محمي",
-        "ru": "⚠️ Не защищённый просмотр",
-        "de": "⚠️ Ungeschütztes Surfen",
-        "ja": "⚠️ 保護されていない閲覧",
-        "ko": "⚠️ 보호되지 않은 브라우징",
-        "id": "⚠️ Penjelajahan Tidak Aman"
+        "en": "⚡ Stay connected, stay smooth",
+        "es": "⚡ Mantente conectado, mantente fluido",
+        "hi": "⚡ कनेक्ट रहें, सुचारू रहें",
+        "fr": "⚡ Restez connecté, restez fluide",
+        "cn": "⚡ Stay connected, stay smooth",
+        "vi": "⚡ Giữ kết nối, trải nghiệm mượt",
+        "pt": "⚡ Fique conectado, fique suave",
+        "ar": "⚡ ابق متصلاً ومرناً",
+        "ru": "⚡ Оставайтесь на связи, всё будет плавно",
+        "de": "⚡ Bleib verbunden, bleib smooth",
+        "ja": "⚡ 接続したまま、快適に",
+        "ko": "⚡ 연결 유지, 부드럽게",
+        "id": "⚡ Tetap terhubung, tetap lancar"
       },
       "titleSub": {
-        "en": "You’re online without VPN. Stay safe now.",
-        "es": "Estás en línea sin VPN. Mantente seguro ahora.",
-        "hi": "आप बिना VPN के ऑनलाइन हैं। अब सुरक्षित रहें।",
-        "fr": "Vous êtes en ligne sans VPN. Restez en sécurité maintenant.",
+        "en": "Your VPN is ready. Connect anytime for a stable and secure session.",
+        "es": "Tu VPN está listo. Conéctate cuando quieras para una sesión estable y segura.",
+        "hi": "आपका VPN तैयार है। स्थिर और सुरक्षित सत्र के लिए कभी भी कनेक्ट करें।",
+        "fr": "Votre VPN est prêt. Connectez-vous à tout moment pour une session stable et sécurisée.",
+        "cn": "Your VPN is ready. Connect anytime for a stable and secure session.",
+        "vi": "VPN của bạn đã sẵn sàng. Kết nối bất cứ lúc nào để phiên ổn định và an toàn.",
+        "pt": "Seu VPN está pronto. Conecte-se a qualquer momento para uma sessão estável e segura.",
+        "ar": "VPN جاهز. اتصل في أي وقت لجلسة مستقرة وآمنة.",
+        "ru": "Ваш VPN готов. Подключайтесь в любое время для стабильной и безопасной сессии.",
+        "de": "Dein VPN ist bereit. Verbinde dich jederzeit für eine stabile und sichere Sitzung.",
+        "ja": "VPNの準備ができました。安定した安全なセッションのためにいつでも接続。",
+        "ko": "VPN이 준비되었습니다. 안정적이고 안전한 세션을 위해 언제든 연결하세요.",
+        "id": "VPN Anda siap. Sambung kapan saja untuk sesi stabil dan aman."
+      }
+    },
+    {
+      "id": "4",
+      "scenario_key": "day1_never_connected",
+      "image": "https://content.kaspersky-labs.com/fm/press-releases/08/0813acfef054ebf9d95c5ff12f6de92e/processed/what-is-a-vpn-q75.jpg",
+      "button": {
+        "text": {
+          "en": "Connect",
+          "es": "Conectar",
+          "hi": "कनेक्ट करें",
+          "fr": "Se connecter",
+          "cn": "Connect",
+          "vi": "Kết nối",
+          "pt": "Conectar",
+          "ar": "اتصال",
+          "ru": "Подключиться",
+          "de": "Verbinden",
+          "ja": "接続",
+          "ko": "연결",
+          "id": "Hubungkan"
+        }
+      },
+      "title": {
+        "en": "🟢 One tap is all it takes",
+        "es": "🟢 Un toque es todo lo que necesitas",
+        "hi": "🟢 बस एक टैप काफी है",
+        "fr": "🟢 Un seul tap suffit",
+        "cn": "🟢 One tap is all it takes",
+        "vi": "🟢 Chỉ cần một chạm",
+        "pt": "🟢 Um toque é tudo que você precisa",
+        "ar": "🟢 نقرة واحدة هي كل ما تحتاجه",
+        "ru": "🟢 Достаточно одного нажатия",
+        "de": "🟢 Ein Tippen reicht",
+        "ja": "🟢 ワンタップで完了",
+        "ko": "🟢 한 번의 탭이면 충분해요",
+        "id": "🟢 Satu ketukan saja yang dibutuhkan"
+      },
+      "titleSub": {
+        "en": "Connect to the best server automatically. No setup. No hassle.",
+        "es": "Conéctate al mejor servidor automáticamente. Sin configuración. Sin complicaciones.",
+        "hi": "सर्वोत्तम सर्वर से स्वचालित रूप से कनेक्ट करें। कोई सेटअप नहीं। कोई झंझट नहीं।",
+        "fr": "Connectez-vous au meilleur serveur automatiquement. Aucune configuration. Aucun tracas.",
+        "cn": "Connect to the best server automatically. No setup. No hassle.",
+        "vi": "Kết nối máy chủ tốt nhất tự động. Không cài đặt. Không phiền phức.",
+        "pt": "Conecte ao melhor servidor automaticamente. Sem configuração. Sem complicação.",
+        "ar": "اتصل بأفضل خادم تلقائياً. بدون إعداد. بدون متاعب.",
+        "ru": "Подключитесь к лучшему серверу автоматически. Без настройки. Без хлопот.",
+        "de": "Verbinde dich automatisch mit dem besten Server. Kein Setup. Kein Stress.",
+        "ja": "最適なサーバーに自動接続。設定不要。面倒なし。",
+        "ko": "최고의 서버에 자동 연결. 설정 없음. 번거로움 없음.",
+        "id": "Sambung ke server terbaik secara otomatis. Tanpa pengaturan. Tanpa repot."
+      }
+    },
+    {
+      "id": "5",
+      "scenario_key": "day2_not_opened_since_install",
+      "image": "https://content.kaspersky-labs.com/fm/press-releases/08/0813acfef054ebf9d95c5ff12f6de92e/processed/what-is-a-vpn-q75.jpg",
+      "button": {
+        "text": {
+          "en": "Open",
+          "es": "Abrir",
+          "hi": "खोलें",
+          "fr": "Ouvrir",
+          "cn": "Open",
+          "vi": "Mở",
+          "pt": "Abrir",
+          "ar": "فتح",
+          "ru": "Открыть",
+          "de": "Öffnen",
+          "ja": "開く",
+          "ko": "열기",
+          "id": "Buka"
+        }
+      },
+      "title": {
+        "en": "🚀 Faster, more stable today",
+        "es": "🚀 Más rápido y estable hoy",
+        "hi": "🚀 आज तेज़ और अधिक स्थिर",
+        "fr": "🚀 Plus rapide, plus stable aujourd'hui",
+        "cn": "🛡 You’re Protected",
+        "vi": "🚀 Nhanh hơn, ổn định hơn hôm nay",
+        "pt": "🚀 Mais rápido e estável hoje",
+        "ar": "🚀 أسرع وأكثر استقراراً اليوم",
+        "ru": "🚀 Быстрее и стабильнее сегодня",
+        "de": "🚀 Heute schneller und stabiler",
+        "ja": "🚀 今日はより速く、より安定",
+        "ko": "🚀 오늘 더 빠르고 안정적",
+        "id": "🚀 Lebih cepat, lebih stabil hari ini"
+      },
+      "titleSub": {
+        "en": "We've optimized our servers. Enjoy a smoother VPN connection now.",
+        "es": "Hemos optimizado nuestros servidores. Disfruta de una conexión VPN más fluida ahora.",
+        "hi": "हमने अपने सर्वरों को अनुकूलित किया है। अब एक सुगम VPN कनेक्शन का आनंद लें।",
+        "fr": "Nous avons optimisé nos serveurs. Profitez d'une connexion VPN plus fluide maintenant.",
+        "cn": "We've optimized our servers. Enjoy a smoother VPN connection now.",
+        "vi": "Chúng tôi đã tối ưu máy chủ. Trải nghiệm kết nối VPN mượt mà hơn.",
+        "pt": "Otimizamos nossos servidores. Aproveite uma conexão VPN mais suave agora.",
+        "ar": "حسّنا خوادمنا. استمتع باتصال VPN أنعم الآن.",
+        "ru": "Мы оптимизировали серверы. Наслаждайтесь более плавным VPN-подключением.",
+        "de": "Wir haben unsere Server optimiert. Genieße jetzt eine reibungslosere VPN-Verbindung.",
+        "ja": "サーバーを最適化しました。よりスムーズなVPN接続をお楽しみください。",
+        "ko": "서버를 최적화했습니다. 더 부드러운 VPN 연결을 즐기세요.",
+        "id": "Kami telah mengoptimalkan server. Nikmati koneksi VPN yang lebih lancar sekarang."
+      }
+    },
+    {
+      "id": "6",
+      "scenario_key": "day3_has_widget_not_clicked_not_open",
+      "image": "https://content.kaspersky-labs.com/fm/press-releases/08/0813acfef054ebf9d95c5ff12f6de92e/processed/what-is-a-vpn-q75.jpg",
+      "button": {
+        "text": {
+          "en": "Click",
+          "es": "Tocar",
+          "hi": "क्लिक करें",
+          "fr": "Appuyer",
+          "cn": "Click",
+          "vi": "Chạm",
+          "pt": "Toque",
+          "ar": "اضغط",
+          "ru": "Нажать",
+          "de": "Tippen",
+          "ja": "タップ",
+          "ko": "탭하기",
+          "id": "Ketuk"
+        }
+      },
+      "title": {
+        "en": "📱 VPN is one tap away",
+        "es": "📱 VPN está a un toque",
+        "hi": "📱 VPN बस एक टैप दूर है",
+        "fr": "📱 Le VPN est à un tap",
+        "cn": "📱 VPN is one tap away",
+        "vi": "📱 VPN chỉ cách một chạm",
+        "pt": "📱 VPN está a um toque",
+        "ar": "📱 VPN بنقرة واحدة",
+        "ru": "📱 VPN в одном нажатии",
+        "de": "📱 VPN ist einen Tipp entfernt",
+        "ja": "📱 VPNはワンタップで",
+        "ko": "📱 VPN은 한 번의 탭으로",
+        "id": "📱 VPN satu ketukan saja"
+      },
+      "titleSub": {
+        "en": "Use the home screen button to connect instantly. No need to open the app.",
+        "es": "Usa el botón de la pantalla de inicio para conectarte al instante. No necesitas abrir la app.",
+        "hi": "तुरंत कनेक्ट करने के लिए होम स्क्रीन बटन का उपयोग करें। ऐप खोलने की जरूरत नहीं।",
+        "fr": "Utilisez le bouton de l'écran d'accueil pour vous connecter instantanément. Pas besoin d'ouvrir l'app.",
         "cn": "You’re online without VPN. Stay safe now.",
-        "vi": "Bạn đang trực tuyến mà không có VPN. Hãy bảo vệ ngay bây giờ.",
-        "pt": "Você está online sem VPN. Fique seguro agora.",
-        "ar": "أنت متصل بالإنترنت بدون VPN. ابق آمناً الآن.",
-        "ru": "Вы онлайн без VPN. Оставайтесь в безопасности.",
-        "de": "Sie sind online ohne VPN. Bleiben Sie jetzt sicher.",
-        "ja": "VPNなしでオンラインです。今すぐ安全を確保してください。",
-        "ko": "VPN 없이 온라인 상태입니다. 지금 안전을 유지하세요.",
-        "id": "Anda online tanpa VPN. Tetap aman sekarang."
+        "vi": "Dùng nút trên màn hình chính để kết nối ngay. Không cần mở app.",
+        "pt": "Use o botão na tela inicial para conectar instantaneamente. Não precisa abrir o app.",
+        "ar": "استخدم زر الشاشة الرئيسية للاتصال فوراً. لا حاجة لفتح التطبيق.",
+        "ru": "Используйте кнопку на главном экране для мгновенного подключения. Открывать приложение не нужно.",
+        "de": "Nutze den Startbildschirm-Button für sofortige Verbindung. App öffnen nicht nötig.",
+        "ja": "ホーム画面のボタンで即接続。アプリを開く必要なし。",
+        "ko": "홈 화면 버튼으로 즉시 연결. 앱을 열 필요 없어요.",
+        "id": "Gunakan tombol layar utama untuk sambung instan. Tidak perlu buka aplikasi."
       }
     },
     {
       "id": "7",
+      "scenario_key": "behavior_fallback",
       "image": "https://content.kaspersky-labs.com/fm/press-releases/08/0813acfef054ebf9d95c5ff12f6de92e/processed/what-is-a-vpn-q75.jpg",
       "button": {
         "text": {
@@ -578,6 +399,7 @@
     },
     {
       "id": "8",
+      "scenario_key": "behavior_fallback",
       "image": "https://content.kaspersky-labs.com/fm/press-releases/08/0813acfef054ebf9d95c5ff12f6de92e/processed/what-is-a-vpn-q75.jpg",
       "button": {
         "text": {
@@ -628,7 +450,8 @@
       }
     },
     {
-      "id": "8",
+      "id": "9",
+      "scenario_key": "behavior_fallback",
       "image": "https://content.kaspersky-labs.com/fm/press-releases/08/0813acfef054ebf9d95c5ff12f6de92e/processed/what-is-a-vpn-q75.jpg",
       "button": {
         "text": {
@@ -679,7 +502,8 @@
       }
     },
     {
-      "id": "9",
+      "id": "10",
+      "scenario_key": "behavior_fallback",
       "image": "https://content.kaspersky-labs.com/fm/press-releases/08/0813acfef054ebf9d95c5ff12f6de92e/processed/what-is-a-vpn-q75.jpg",
       "button": {
         "text": {
@@ -730,7 +554,8 @@
       }
     },
     {
-      "id": "10",
+      "id": "11",
+      "scenario_key": "behavior_fallback",
       "image": "https://content.kaspersky-labs.com/fm/press-releases/08/0813acfef054ebf9d95c5ff12f6de92e/processed/what-is-a-vpn-q75.jpg",
       "button": {
         "text": {
@@ -781,7 +606,8 @@
       }
     },
     {
-      "id": "11",
+      "id": "12",
+      "scenario_key": "behavior_fallback",
       "image": "https://content.kaspersky-labs.com/fm/press-releases/08/0813acfef054ebf9d95c5ff12f6de92e/processed/what-is-a-vpn-q75.jpg",
       "button": {
         "text": {
@@ -832,7 +658,8 @@
       }
     },
     {
-      "id": "12",
+      "id": "13",
+      "scenario_key": "behavior_fallback",
       "image": "https://content.kaspersky-labs.com/fm/press-releases/08/0813acfef054ebf9d95c5ff12f6de92e/processed/what-is-a-vpn-q75.jpg",
       "button": {
         "text": {
